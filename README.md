@@ -30,7 +30,7 @@ I like building cool things related to **AI and automation**.
 
 ---
 
-### ⚡ Fun Facts About Me
+### ⚡ Facts ⚡
 - I'm currently in **10th grade**
 - I edit videos (mostly AMVs) using **Adobe After Effects**
 
