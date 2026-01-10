@@ -1,13 +1,14 @@
 ## Hey there 👋
 
 I'm **Lakshya**, a student from Hyderabad, India 🇮🇳  
-I love building cool things, especially related to **AI and automation**.
+I like building cool things related to **AI and automation**.
 
 ---
 
 ### 🚀 What I'm Working On
 - Building my own **AI assistant** using Python + APIs.
 - Learning the fundamentals of **AI/ML and data science**.
+- Learning the **Math** required for AI/ML.
 
 ---
 
@@ -21,7 +22,6 @@ I love building cool things, especially related to **AI and automation**.
 
 ### 🎯 Goals
 - Get proper guidance in **Machine Learning**
-- Become great at programming & problem-solving  
 
 ---
 
@@ -33,7 +33,7 @@ I love building cool things, especially related to **AI and automation**.
 ### ⚡ Fun Facts About Me
 - I'm currently in **10th grade**
 - I edit videos (mostly AMVs) using **Adobe After Effects**
-- I love experimenting with coding, space tech, and robotics 🛰️
+
 
 ---
 
