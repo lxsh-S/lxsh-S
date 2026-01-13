@@ -3,6 +3,25 @@
 I'm **Lakshya**, a student from Hyderabad, India 🇮🇳  
 I like building cool things related to **AI and automation**.
 
+
+<script>
+
+           .             ​ axenide@world 
+          .c.           ┌───────────────────────────────┐ 
+         .ccc.           ​ OS : Lakshya Leo
+        .lllll.          ​ Kernel : NERDY-DEV 3.14 
+       ..;'olll.         ​ WM : Hyprland 
+      .dolllcccl.        ​ Shell : bash
+     .lcc'   'ccc.       ​ Uptime : 15 years
+    .ccc'     'cc:.      ​ CPU : LeoCore LKS-1
+   .cccc'     'c:;..    └───────────────────────────────┘ 
+  ."'             '".     L   A   K   S   H   Y   A   目 
+
+arch in ~ 
+  λ echo "Stay Determined!"
+<script>
+
+
 ---
 
 ### 🚀 What I'm Working On
