@@ -1,4 +1,4 @@
-'''
+```
 
 lakshya = {
     "mark": "目",
@@ -7,5 +7,4 @@ lakshya = {
     "mode": "Focused",
     "status": "Compiling dreams..."
 }
-
-'''
+```
