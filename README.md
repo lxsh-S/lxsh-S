@@ -11,7 +11,9 @@
    .cccc'     'c:;..    └───────────────────────────────┘ 
   ."'             '".     L   A   K   S   H   Y   A   目 
 
-  arch in ~ 
+  
+  
+    arch in ~ 
     λ echo "Compiling Dreams!"
 
 
