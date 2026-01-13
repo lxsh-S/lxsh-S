@@ -4,7 +4,8 @@ I'm **Lakshya**, a student from Hyderabad, India 🇮🇳
 I like building cool things related to **AI and automation**.
 
 
-<script>
+'''
+    text
 
            .             ​ axenide@world 
           .c.           ┌───────────────────────────────┐ 
@@ -19,7 +20,7 @@ I like building cool things related to **AI and automation**.
 
 arch in ~ 
   λ echo "Stay Determined!"
-<script>
+'''
 
 
 ---
