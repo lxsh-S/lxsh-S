@@ -8,7 +8,7 @@ Progress:
 [████████░░░░░░░░░░] 42%
 
 Changelog:
-- Learned Linux  
+- Learning Linux  
 - Discovered Hyprland  
 - Switched from scrolling to building  
 
