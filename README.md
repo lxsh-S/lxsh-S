@@ -4,7 +4,7 @@ Project: Lakshya 目
 System : Arch Linux  
 Kernel : 6.17 
 
-Progress:
+Compiling Dreams:
 [████████░░░░░░░░░░] 42%
 
 Changelog:
