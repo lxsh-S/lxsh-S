@@ -1,5 +1,5 @@
-
 '''
+
            .             ​ lakshya@world
           .c.           ┌───────────────────────────────┐ 
          .ccc.           ​ OS : Lakshya Leo
@@ -11,6 +11,8 @@
    .cccc'     'c:;..    └───────────────────────────────┘ 
   ."'             '".     L   A   K   S   H   Y   A   目 
 
-arch in ~ 
-  λ echo "Compiling Dreams!"
+  arch in ~ 
+    λ echo "Compiling Dreams!"
+
+
 '''
