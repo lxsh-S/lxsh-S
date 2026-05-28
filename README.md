@@ -3,8 +3,5 @@
 Project: Lakshya 目  
 System : Arch Linux  
 Kernel : 6.17
-Learning to speak in Golang!
-
-Compiling Dreams:
-[████████░░░░░░░░░░] 42%
+Learning to speak in Golang and C++!
 ```
