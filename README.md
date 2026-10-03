@@ -3,5 +3,5 @@
 Name: Lakshya λ 
 System : Arch Linux  
 Kernel : 6.17
-Learning : Electronic and java-script!
+Learning : C and linux!
 ```
