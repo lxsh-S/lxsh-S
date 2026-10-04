@@ -1,5 +1,6 @@
 ```
-
+FASTFETCH:
+---------
 Name: Lakshya λ 
 System : Arch Linux  
 Kernel : 6.17
